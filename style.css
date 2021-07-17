@@ -8,7 +8,7 @@
 .left{
 	height: 100vh;
 	width: 100%;
-	background-image: url("C:/Users/anshd/Desktop/portfolio/bg.jpg");
+	background-image: url("bg.jpg");
 	background-size: cover;
 	background-position: center;
 }
@@ -115,7 +115,7 @@ h4{
 .sc{
 	height: 100vh;
 	width: 100%;
-	background-image: url("C:/Users/anshd/Desktop/portfolio/bg2.jfif");
+	background-image: url("bg2.jfif");
 	background-size: cover;
 	background-position: center;
 
